@@ -14,3 +14,7 @@ p {
     line-height: 30px;
     color: #6c757d;
 }
+
+.navbar-nav {
+    margin-left: auto;
+}
